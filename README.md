@@ -1,5 +1,4 @@
-I’m Bogdan
-I’m interested in harvesting organs
+I’m Janek'
 
 
 <!---
